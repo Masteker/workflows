@@ -1,7 +1,7 @@
 name: final 11 sprint
 on: 
   push: 
-    branches: [ "main" ]
+    branches: [ "ver20" ]
     tags: '*'
 jobs:
   test:
